@@ -1,0 +1,39 @@
+D:\Users\student\Desktop\3-lesson\3-lesson\bin\Debug\3-lesson.exe.config
+D:\Users\student\Desktop\3-lesson\3-lesson\bin\Debug\3-lesson.exe
+D:\Users\student\Desktop\3-lesson\3-lesson\bin\Debug\3-lesson.pdb
+D:\Users\student\Desktop\3-lesson\3-lesson\obj\Debug\3-lesson.csprojAssemblyReference.cache
+D:\Users\student\Desktop\3-lesson\3-lesson\obj\Debug\_3_lesson.Form1.resources
+D:\Users\student\Desktop\3-lesson\3-lesson\obj\Debug\_3_lesson.Properties.Resources.resources
+D:\Users\student\Desktop\3-lesson\3-lesson\obj\Debug\3-lesson.csproj.GenerateResource.cache
+D:\Users\student\Desktop\3-lesson\3-lesson\obj\Debug\3-lesson.csproj.CoreCompileInputs.cache
+D:\Users\student\Desktop\3-lesson\3-lesson\obj\Debug\3-lesson.exe
+D:\Users\student\Desktop\3-lesson\3-lesson\obj\Debug\3-lesson.pdb
+F:\обьектно ориентированное программирование\3-lesson\3-lesson\bin\Debug\3-lesson.exe.config
+F:\обьектно ориентированное программирование\3-lesson\3-lesson\bin\Debug\3-lesson.exe
+F:\обьектно ориентированное программирование\3-lesson\3-lesson\bin\Debug\3-lesson.pdb
+F:\обьектно ориентированное программирование\3-lesson\3-lesson\obj\Debug\3-lesson.csprojAssemblyReference.cache
+F:\обьектно ориентированное программирование\3-lesson\3-lesson\obj\Debug\_3_lesson.Form1.resources
+F:\обьектно ориентированное программирование\3-lesson\3-lesson\obj\Debug\_3_lesson.Properties.Resources.resources
+F:\обьектно ориентированное программирование\3-lesson\3-lesson\obj\Debug\3-lesson.csproj.GenerateResource.cache
+F:\обьектно ориентированное программирование\3-lesson\3-lesson\obj\Debug\3-lesson.csproj.CoreCompileInputs.cache
+F:\обьектно ориентированное программирование\3-lesson\3-lesson\obj\Debug\3-lesson.exe
+F:\обьектно ориентированное программирование\3-lesson\3-lesson\obj\Debug\3-lesson.pdb
+E:\обьектно ориентированное программирование\3-lesson\3-lesson\bin\Debug\3-lesson.exe.config
+E:\обьектно ориентированное программирование\3-lesson\3-lesson\bin\Debug\3-lesson.exe
+E:\обьектно ориентированное программирование\3-lesson\3-lesson\bin\Debug\3-lesson.pdb
+E:\обьектно ориентированное программирование\3-lesson\3-lesson\obj\Debug\_3_lesson.Form1.resources
+E:\обьектно ориентированное программирование\3-lesson\3-lesson\obj\Debug\_3_lesson.Properties.Resources.resources
+E:\обьектно ориентированное программирование\3-lesson\3-lesson\obj\Debug\3-lesson.csproj.GenerateResource.cache
+E:\обьектно ориентированное программирование\3-lesson\3-lesson\obj\Debug\3-lesson.csproj.CoreCompileInputs.cache
+E:\обьектно ориентированное программирование\3-lesson\3-lesson\obj\Debug\3-lesson.exe
+E:\обьектно ориентированное программирование\3-lesson\3-lesson\obj\Debug\3-lesson.pdb
+C:\Users\Глеб\Desktop\3-lesson\3-lesson\bin\Debug\3-lesson.exe.config
+C:\Users\Глеб\Desktop\3-lesson\3-lesson\bin\Debug\3-lesson.exe
+C:\Users\Глеб\Desktop\3-lesson\3-lesson\bin\Debug\3-lesson.pdb
+C:\Users\Глеб\Desktop\3-lesson\3-lesson\obj\Debug\3-lesson.csprojAssemblyReference.cache
+C:\Users\Глеб\Desktop\3-lesson\3-lesson\obj\Debug\_3_lesson.Form1.resources
+C:\Users\Глеб\Desktop\3-lesson\3-lesson\obj\Debug\_3_lesson.Properties.Resources.resources
+C:\Users\Глеб\Desktop\3-lesson\3-lesson\obj\Debug\3-lesson.csproj.GenerateResource.cache
+C:\Users\Глеб\Desktop\3-lesson\3-lesson\obj\Debug\3-lesson.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\Desktop\3-lesson\3-lesson\obj\Debug\3-lesson.exe
+C:\Users\Глеб\Desktop\3-lesson\3-lesson\obj\Debug\3-lesson.pdb
