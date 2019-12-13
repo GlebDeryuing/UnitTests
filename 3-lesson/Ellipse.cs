@@ -13,7 +13,8 @@ namespace _3_lesson
         { }
         public override double Distance(PointF point1)
         {
-            return 1;
+            return 0;
+	    //тестовый коммит
         }
     }
 }
